@@ -1,0 +1,21 @@
+.table {
+  text-align: center;
+  font-size: 30px;
+
+}
+table, th, td {
+  border-bottom: 1px solid plum;
+  border-collapse: collapse;
+  padding: 10px;
+}
+.container {
+  margin: 90px 120px;
+  width: 400px;
+}
+form {
+  text-align: center;
+  padding: 10px;
+}
+form input {
+  margin: 10px 0;
+}
